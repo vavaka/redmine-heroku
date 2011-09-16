@@ -1,0 +1,11 @@
+/.svn
+/.project
+/.loadpath
+/log/*.log*
+/log/mongrel_debug
+/tmp/*
+/tmp/cache/*
+/tmp/sessions/*
+/tmp/sockets/*
+/tmp/test/*
+*.rbc
